@@ -296,7 +296,7 @@ git push origin main
 
 ## Parcial 2 — Consumo de API (completar por el estudiante)
 
-**Nombre:** _________________________________ · **Carnet:** ______________
+**Nombre:** ________________________________Josue Daniel Martinez Rosales_ · **Carnet:** _____25-4699-2024________
 
 ### Salida de consola (segunda ejecución)
 
